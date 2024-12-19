@@ -1,0 +1,63 @@
+[
+    {
+      "id": "001",
+      "name": "Modern Recliner Sofa",
+      "image": "https://i.pinimg.com/736x/3d/68/61/3d68611b5d16862512548ff05e9bef52.jpg",
+      "rating": 4.8,
+      "title": "Luxurious Recliner Sofa",
+      "details": "A plush recliner sofa with a modern design, offering superior comfort and functionality.",
+      "color": "Gray",
+      "price": "$1,399",
+      "size": "L: 90in W: 42in H: 36in",
+      "category": "living_room_sofas"
+    },
+    {
+      "id": "002",
+      "name": "Compact Loveseat",
+      "image": "https://i.pinimg.com/736x/27/ce/71/27ce71f410d910d919f75c3eed83db74.jpg",
+      "rating": 4.5,
+      "title": "Space-Saving Loveseat",
+      "details": "This compact loveseat fits perfectly in smaller spaces without compromising comfort or style.",
+      "color": "Beige",
+      "price": "$599",
+      "size": "L: 60in W: 34in H: 30in",
+      "category": "living_room_sofas"
+    },
+    {
+      "id": "003",
+      "name": "Leather Chesterfield Sofa",
+      "image": "https://i.pinimg.com/736x/c8/60/04/c8600431697a682f84d9d03920d033b0.jpg",
+      "rating": 4.9,
+      "title": "Classic Chesterfield Design",
+      "details": "A timeless leather Chesterfield sofa with button-tufted details and elegant rolled arms.",
+      "color": "Brown",
+      "price": "$2,199",
+      "size": "L: 84in W: 38in H: 32in",
+      "category": "living_room_sofas"
+    },
+    {
+      "id": "004",
+      "name": "Convertible Sofa Bed",
+      "image": "https://i.pinimg.com/736x/a0/7d/6c/a07d6cf3de092a742ba70e2c39a26e93.jpg",
+      "rating": 4.4,
+      "title": "Stylish Sofa Bed",
+      "details": "A convertible sofa bed that combines style and functionality, perfect for small apartments.",
+      "color": "Navy Blue",
+      "price": "$749",
+      "size": "L: 78in W: 35in H: 32in",
+      "category": "living_room_sofas"
+    },
+    {
+      "id": "005",
+      "name": "Velvet Sofa",
+      "image": "https://i.pinimg.com/736x/9d/ed/5e/9ded5ebf50fea89e3b046431901e2f28.jpg",
+      "rating": 4.7,
+      "title": "Elegant Velvet Sofa",
+      "details": "A sophisticated velvet sofa with a sleek design and vibrant color options.",
+      "color": "Emerald Green",
+      "price": "$1,299",
+      "size": "L: 88in W: 40in H: 34in",
+      "category": "living_room_sofas"
+    }
+  ]
+  
