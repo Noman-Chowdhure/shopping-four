@@ -1,0 +1,82 @@
+[
+  {
+      "id": 1,
+      "name": "Espresso",
+      "description": "A strong and bold coffee made by forcing hot water through finely-ground coffee beans.",
+      "price": 2.99,
+      "image": "espresso.jpg",
+      "category": "Hot Coffee"
+  },
+  {
+      "id": 2,
+      "name": "Cappuccino",
+      "description": "A classic Italian coffee with a perfect balance of espresso, steamed milk, and foam.",
+      "price": 3.99,
+      "image": "cappuccino.jpg",
+      "category": "Hot Coffee"
+  },
+  {
+      "id": 3,
+      "name": "Latte",
+      "description": "A creamy coffee drink made with espresso and steamed milk, topped with a layer of foam.",
+      "price": 4.49,
+      "image": "latte.jpg",
+      "category": "Hot Coffee"
+  },
+  {
+      "id": 4,
+      "name": "Iced Coffee",
+      "description": "A refreshing coffee brewed and chilled, served over ice.",
+      "price": 3.50,
+      "image": "iced_coffee.jpg",
+      "category": "Cold Coffee"
+  },
+  {
+      "id": 5,
+      "name": "Mocha",
+      "description": "A delicious blend of espresso, chocolate, and steamed milk, topped with whipped cream.",
+      "price": 4.99,
+      "image": "mocha.jpg",
+      "category": "Hot Coffee"
+  },
+  {
+      "id": 6,
+      "name": "Cold Brew",
+      "description": "A smooth and less acidic coffee made by steeping coarse coffee grounds in cold water for hours.",
+      "price": 4.25,
+      "image": "cold_brew.jpg",
+      "category": "Cold Coffee"
+  },
+  {
+      "id": 7,
+      "name": "Americano",
+      "description": "A diluted espresso offering a simple, robust flavor for coffee purists.",
+      "price": 2.75,
+      "image": "americano.jpg",
+      "category": "Hot Coffee"
+  },
+  {
+      "id": 8,
+      "name": "Caramel Macchiato",
+      "description": "A layered drink with espresso, steamed milk, vanilla syrup, and caramel drizzle.",
+      "price": 5.49,
+      "image": "caramel_macchiato.jpg",
+      "category": "Hot Coffee"
+  },
+  {
+      "id": 9,
+      "name": "Affogato",
+      "description": "A decadent dessert-coffee made by pouring hot espresso over a scoop of vanilla ice cream.",
+      "price": 4.99,
+      "image": "affogato.jpg",
+      "category": "Specialty Coffee"
+  },
+  {
+      "id": 10,
+      "name": "Frappuccino",
+      "description": "A blended iced coffee with flavors and toppings like whipped cream.",
+      "price": 5.99,
+      "image": "frappuccino.jpg",
+      "category": "Cold Coffee"
+  }
+]
