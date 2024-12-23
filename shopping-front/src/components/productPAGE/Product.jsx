@@ -1,6 +1,7 @@
 import LocomotiveScroll from "locomotive-scroll";
 import React from "react";
 import ProductHero from "./heroSection/ProductHero";
+import Pagetransction from "../../pageTranscition/Pagetransction";
 const Product = () => {
   const scroll = new LocomotiveScroll();
   return (
@@ -10,4 +11,4 @@ const Product = () => {
   );
 };
 
-export default Product;
+export default Product

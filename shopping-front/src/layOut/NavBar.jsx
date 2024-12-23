@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 const NavBar = () => {
   return (
-    <div className=' w-full h-fit grid grid-cols-3 py-12 justify-center justify-items-center items-center'>
+    <div className=' w-full h-fit grid grid-cols-3 py-12 sticky top-4 justify-center justify-items-center items-center'>
     
      <div className="logo">
         <h1 className=' font-PT uppercase'>coffe house</h1>
